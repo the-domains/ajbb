@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3401025
+  lightness: 0.2098943
+  brandStrength: 0.4838682
+  rhythmicContrast: 0.1146597
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.8786099
+name: AJBB
