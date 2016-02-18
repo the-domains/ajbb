@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3401025
+  brandStrength: 1
   lightness: 0.2098943
-  brandStrength: 0.4838682
-  rhythmicContrast: 0.1146597
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-typography_spectrum: 0.8786099
+    - '#CFD6E0'
+    - '#53555B'
+    - '#D93164'
+    - '#88021E'
+    - '#16A3C9'
+  rhythmicContrast: 0.1146597
+typography_spectrum: 0.1200717
+layout_spectrum: 1
 name: AJBB
