@@ -1,3 +1,7 @@
+name: AJBB
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1200717
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: .Life
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3401025
-  brandStrength: 1
-  lightness: 0.2098943
   brandColors:
     - '#CFD6E0'
     - '#53555B'
     - '#D93164'
     - '#88021E'
     - '#16A3C9'
+  brandStrength: 1
+  lightness: 0.2098943
+  saturation: 0.3401025
   rhythmicContrast: 0.1146597
-typography_spectrum: 0.1200717
-layout_spectrum: 1
-name: AJBB
+purpose: []
