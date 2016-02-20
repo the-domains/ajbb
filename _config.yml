@@ -1,4 +1,4 @@
-name: AJBB.LIFE
+name: AJBB LIFE
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.1200717
@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: AJBB.LIFE
+title: .LIFE
 cta:
   domain: null
   bucket: null
