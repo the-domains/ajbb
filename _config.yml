@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.4375
+  saturation: 1
   brandStrength: 1
-  lightness: 1
+  lightness: 0.2724014
   brandColors:
     - '#CFD6E0'
     - '#53555B'
     - '#D93164'
     - '#88021E'
     - '#16A3C9'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.9516129
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: AJBB.LIFE
 favicon: null
+name: AJBB.LIFE
 opengraph:
   image: null
   type: null
