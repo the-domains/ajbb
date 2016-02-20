@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:1a18713b-90ff-4945-91e4-bbf4dc9e0f3d'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-20T03:22:15.447Z'
-dateModified: '2016-02-20T03:22:07.097Z'
+datePublished: '2016-02-20T04:17:26.831Z'
+dateModified: '2016-02-20T03:22:23.765Z'
 author: []
 title: Elgato Hd 60 Pro
 sourcePath: _posts/2016-02-18-elgato-hd-60-pro.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: elgato-hd-60-pro/index.html
 _context: 'http://schema.org'
 _type: Article
 
