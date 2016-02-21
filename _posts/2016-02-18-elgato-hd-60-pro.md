@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-21T22:28:40.294Z'
-dateModified: '2016-02-21T22:00:52.742Z'
+datePublished: '2016-02-21T23:11:40.553Z'
+dateModified: '2016-02-21T22:28:50.263Z'
 author: []
 title: Elgato Hd 60 Pro
 sourcePath: _posts/2016-02-18-elgato-hd-60-pro.md
