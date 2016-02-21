@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-21T22:00:43.829Z'
-dateModified: '2016-02-21T18:10:05.017Z'
+datePublished: '2016-02-21T22:28:40.294Z'
+dateModified: '2016-02-21T22:00:52.742Z'
 author: []
 title: Elgato Hd 60 Pro
 sourcePath: _posts/2016-02-18-elgato-hd-60-pro.md
