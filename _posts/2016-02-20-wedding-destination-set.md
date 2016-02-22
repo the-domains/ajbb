@@ -17,8 +17,8 @@ keywords:
   - elegance
   - desert
 description: ''
-datePublished: '2016-02-22T04:34:26.655Z'
-dateModified: '2016-02-22T04:34:15.131Z'
+datePublished: '2016-02-22T04:45:30.876Z'
+dateModified: '2016-02-22T04:45:14.627Z'
 author: []
 related: []
 app_links: []
@@ -37,4 +37,4 @@ _type: MediaObject
 ---
 # Wedding Destination set! 
 
-<article style=""><h1>Ranch Style Weddings at Cattleman's Steakhouse Indian Cliffs Ranch El Paso &amp; Fabens, Texas Introduction</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf23f826e97d1381280fec448d915dc9b7ed2ef3.jpg" /></article>
+<article style=""><h1>Ranch Style Weddings at Cattleman's Steakhouse Indian Cliffs Ranch El Paso &amp; Fabens, Texas Introduction</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a6a16fadd6e3cb40625ec012f8276d9b1bce04c.jpg" /></article>
