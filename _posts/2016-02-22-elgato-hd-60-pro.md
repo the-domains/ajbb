@@ -16,9 +16,9 @@ keywords:
   - teology
   - pcie
   - tutorial
-description: 'El Gato HD 60 Pro! Music: Music: http://www.bensound.com'
-datePublished: '2016-02-22T02:40:50.525Z'
-dateModified: '2016-02-22T02:40:45.515Z'
+description: 'El Gato HD 60 Pro! Music: http://www.bensound.com'
+datePublished: '2016-02-22T02:56:08.391Z'
+dateModified: '2016-02-22T02:55:51.637Z'
 author:
   - name: nuflyy
     url: 'https://www.youtube.com/user/nuflyy'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: ElGato HD 60 Pro
+sourcePath: _posts/2016-02-22-elgato-hd-60-pro.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-22-elgato-hd-60-pro.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
