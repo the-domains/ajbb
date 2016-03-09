@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=L4zGJUcoGFI'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - elgato
   - duration
@@ -17,8 +17,8 @@ keywords:
   - pcie
   - tutorial
 description: 'El Gato HD 60 Pro! Music: http://www.bensound.com'
-datePublished: '2016-02-22T02:56:08.391Z'
-dateModified: '2016-02-22T02:55:51.637Z'
+datePublished: '2016-03-09T14:56:22.104Z'
+dateModified: '2016-03-02T05:08:16.546Z'
 author:
   - name: nuflyy
     url: 'https://www.youtube.com/user/nuflyy'
