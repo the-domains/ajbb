@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Stream Over 100 workout videos from Home, your phone, tablet anywhere!! With
   BeachBody on Demand you can workout 
-datePublished: '2016-06-28T18:26:20.573Z'
-dateModified: '2016-06-28T18:25:56.780Z'
+datePublished: '2016-06-28T18:28:24.398Z'
+dateModified: '2016-06-28T18:26:26.783Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-beachbody-on-demand.md
