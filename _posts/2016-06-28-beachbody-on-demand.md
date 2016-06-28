@@ -8,14 +8,14 @@ description: >-
   Stream Over 100 workout videos from Home, your phone, tablet anywhere!! With
   BeachBody on Demand you can workout with out a gym. Click Here to get started
   streaming your workout from anywhere!!!!
-datePublished: '2016-06-28T21:49:03.860Z'
-dateModified: '2016-06-28T21:42:38.010Z'
+datePublished: '2016-06-28T21:57:39.812Z'
+dateModified: '2016-06-28T21:57:33.913Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-beachbody-on-demand.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: beachbody-on-demand/index.html
 _type: Article
 
