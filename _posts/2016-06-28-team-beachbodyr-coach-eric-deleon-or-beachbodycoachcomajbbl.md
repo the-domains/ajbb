@@ -21,8 +21,8 @@ description: >-
   opinions shall not be attributed to or otherwise endorsed by Team Beachbody or
   Beachbody, and may not be used for advertising or product endorsement purposes
   without the express, written consent of Beachbody.
-datePublished: '2016-06-28T21:31:30.140Z'
-dateModified: '2016-06-28T21:31:26.399Z'
+datePublished: '2016-06-28T21:37:54.136Z'
+dateModified: '2016-06-28T21:37:34.775Z'
 author:
   - name: ''
     url: ''
