@@ -7,14 +7,14 @@ keywords: []
 description: >-
   Cize it up with me every Monday at 7:30 CT live on *****. Click here to go to
   site. 
-datePublished: '2016-06-28T21:56:56.137Z'
-dateModified: '2016-06-28T21:56:41.773Z'
+datePublished: '2016-06-28T21:57:30.981Z'
+dateModified: '2016-06-28T21:57:25.057Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-cize-it-up-with-me-every-monday-at-730-ct-live-on--cl.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: cize-it-up-with-me-every-monday-at-730-ct-live-on--cl/index.html
 _type: Article
 
