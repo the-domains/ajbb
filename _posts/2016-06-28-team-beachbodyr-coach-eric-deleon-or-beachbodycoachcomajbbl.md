@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  name: Beachbodycoach
-  domain: www.beachbodycoach.com
-  url: 'http://www.beachbodycoach.com'
-  favicon: 'http://www.beachbodycoach.com/favicon.ico'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - beachbody
   - exercised
@@ -24,19 +21,22 @@ description: >-
   opinions shall not be attributed to or otherwise endorsed by Team Beachbody or
   Beachbody, and may not be used for advertising or product endorsement purposes
   without the express, written consent of Beachbody.
-inLanguage: en
+datePublished: '2016-06-28T21:30:58.931Z'
+dateModified: '2016-06-28T04:57:48.025Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.beachbodycoach.com/esuite/home/AJBBLIFE'
 title: Team Beachbody® Coach Eric DeLeon | BeachbodyCoach.com/AJBBLIFE
-datePublished: '2016-06-28T04:55:59.568Z'
-dateModified: '2016-06-28T04:55:26.106Z'
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
-starred: true
 sourcePath: >-
   _posts/2016-06-28-team-beachbodyr-coach-eric-deleon-or-beachbodycoachcomajbbl.md
+authors: []
+publisher:
+  name: Beachbodycoach
+  domain: www.beachbodycoach.com
+  url: 'http://www.beachbodycoach.com'
+  favicon: 'http://www.beachbodycoach.com/favicon.ico'
+starred: true
+url: team-beachbodyr-coach-eric-deleon-or-beachbodycoachcomajbbl/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
