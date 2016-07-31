@@ -1,6 +1,6 @@
 name: AJBB.LIFE
 favicon: null
-layout_spectrum: 0.74207
+layout_spectrum: 1
 typography_spectrum: 0.1200717
 title: null
 collections:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#CFD6E0'
-    - '#53555B'
-    - '#D93164'
-    - '#88021E'
-    - '#16A3C9'
+    - '#000000'
+    - '#0fd0e0'
+    - '#fe0700'
+    - '#ea0000'
+    - '#00ffff'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
