@@ -1,17 +1,24 @@
 ---
-title: Razorback .Life
-datePublished: '2016-07-31T16:05:13.775Z'
-dateModified: '2016-07-31T16:04:31.193Z'
-author: []
-isBasedOnUrl: 'http://ajbb.bigcartel.com/product/razorback-life'
-description: ''
-publisher: {}
-via: {}
-starred: false
-sourcePath: _posts/2016-07-31-razorback-life.md
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://ajbb.bigcartel.com/product/razorback-life'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-07-31T23:55:28.356Z'
+dateModified: '2016-07-31T23:55:17.373Z'
+title: Razorback .Life
+author: []
+via: {}
+sourcePath: _posts/2016-07-31-razorback-life.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
