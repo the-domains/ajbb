@@ -1,6 +1,6 @@
 name: AJBB.LIFE
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.823
 typography_spectrum: 0.1200717
 title: null
 collections:
@@ -34,8 +34,8 @@ color:
     - '#fe0700'
     - '#ea0000'
     - '#00ffff'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 0
 purpose: []
